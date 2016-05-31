@@ -1,4 +1,3 @@
-# apache-log-to-telegram
 watch apache log with telegram
 
 I have an apache webserver running and want to know if somebody has a look on my sites.
