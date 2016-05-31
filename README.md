@@ -15,6 +15,8 @@ It is quite simple and easy to understand.
 
 Just start it with python apache.py
 
+You can change it easy for any kind of logfile.
+
 Stay lucky
 
 Klaus Werner
